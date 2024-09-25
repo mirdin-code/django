@@ -10,7 +10,7 @@
       "id": "4293"
     },
     {
-      "type": "revealFiles",
+      "type": "highlight",
       "file": "django/core/mail/backends/base.py",
       "description": "The two primary datatypes of the mail subsystem are `BaseEmailBackend` and `EmailMessage`*(later)*.\n\n An e-mail backend is a method of sending e-mail messages. Options include printing the e-mail to the command line or a file, doing nothing, as well as sending it for real using SMTP.\n\n These are provided by the various subclasses of `BaseEmailBackend` in the `backends` folder.",
       "title": "",
@@ -18,7 +18,7 @@
       "id": "4312"
     },
     {
-      "type": "revealFiles",
+      "type": "highlight",
       "file": "django/core/mail/backends/base.py",
       "description": "The two primary datatypes of the mail subsystem are `BaseEmailBackend` and `EmailMessage`*(later)*.\n\n An e-mail backend is a method of sending e-mail messages. Options include printing the e-mail to the command line or a file, doing nothing, as well as sending it for real using SMTP.\n\n These are provided by the various subclasses of `BaseEmailBackend` in the `backends` folder. The chief method of an e-mail backend implementation is `send_messages`.",
       "title": "",
